@@ -23,5 +23,5 @@ with col3:
     # Replace the URL below with your exact live Ishita website link
     st.link_button(
         "🎁 Box C", 
-        "https://streamlit.app"
+        "https://formyishibby.streamlit.app/"
     )
